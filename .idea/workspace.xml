@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f9390ea-ed95-4906-87d7-4496446448cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jupiler pro league.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jupiler pro league.html" afterDir="false" />
-    </list>
+    <list default="true" id="7f9390ea-ed95-4906-87d7-4496446448cf" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +75,7 @@
       <workItem from="1570090017641" duration="599000" />
       <workItem from="1570693681964" duration="225000" />
       <workItem from="1603090008373" duration="9584000" />
-      <workItem from="1604065643955" duration="3792000" />
+      <workItem from="1604065643955" duration="4050000" />
     </task>
     <servers />
   </component>
